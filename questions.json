@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "M001",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 2/7 + 2/5!",
+    "options": [
+      "59/35",
+      "35/24",
+      "142/105",
+      "24/35"
+    ],
+    "answer": 3,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 2/7 + 2/5 = 24/35.",
+    "points": 100
+  },
+  {
+    "id": "M002",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 2 − 2/3!",
+    "options": [
+      "4/3",
+      "3/4",
+      "1",
+      "5/3"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 2 − 2/3 = 4/3.",
+    "points": 100
+  },
+  {
+    "id": "M003",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 6/5 + 7/6!",
+    "options": [
+      "71/30",
+      "71/15",
+      "43/15",
+      "27/10"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 6/5 + 7/6 = 71/30.",
+    "points": 100
+  },
+  {
+    "id": "M004",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 5/6 − 1/5!",
+    "options": [
+      "19/30",
+      "3/5",
+      "29/30",
+      "13/10"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 5/6 − 1/5 = 19/30.",
+    "points": 100
+  },
+  {
+    "id": "M005",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 2/3 + 7/3!",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "11/3"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 2/3 + 7/3 = 3.",
+    "points": 100
+  },
+  {
+    "id": "M006",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 7/10 − 5/8!",
+    "options": [
+      "3/40",
+      "49/120",
+      "43/40",
+      "3/80"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/10 − 5/8 = 3/40.",
+    "points": 100
+  },
+  {
+    "id": "M007",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 3/4 + 2/11!",
+    "options": [
+      "211/132",
+      "10/11",
+      "63/44",
+      "41/44"
+    ],
+    "answer": 3,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 3/4 + 2/11 = 41/44.",
+    "points": 100
+  },
+  {
+    "id": "M008",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 4/5 − 2/3!",
+    "options": [
+      "19/30",
+      "15/2",
+      "2/15",
+      "7/15"
+    ],
+    "answer": 2,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 4/5 − 2/3 = 2/15.",
+    "points": 100
+  },
+  {
+    "id": "M009",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 7/8 + 2/3!",
+    "options": [
+      "19/12",
+      "37/24",
+      "61/24",
+      "24/37"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/8 + 2/3 = 37/24.",
+    "points": 100
+  },
+  {
+    "id": "M010",
+    "category": "fraction-add",
+    "difficulty": "mudah",
+    "question": "Hitung hasil dari 6/5 − 1!",
+    "options": [
+      "7/10",
+      "13/15",
+      "8/15",
+      "1/5"
+    ],
+    "answer": 3,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 6/5 − 1 = 1/5.",
+    "points": 100
+  },
+  {
+    "id": "M011",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/10 + 1/6!",
+    "options": [
+      "6/5",
+      "23/15",
+      "13/30",
+      "13/15"
+    ],
+    "answer": 3,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/10 + 1/6 = 13/15.",
+    "points": 100
+  },
+  {
+    "id": "M012",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 2 − 7/9!",
+    "options": [
+      "4/3",
+      "11/9",
+      "13/18",
+      "17/9"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 2 − 7/9 = 11/9.",
+    "points": 100
+  },
+  {
+    "id": "M013",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/4 + 4!",
+    "options": [
+      "4/23",
+      "23/4",
+      "77/12",
+      "23/8"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/4 + 4 = 23/4.",
+    "points": 100
+  },
+  {
+    "id": "M014",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 4/3 − 1/10!",
+    "options": [
+      "37/30",
+      "30/37",
+      "47/30",
+      "19/15"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 4/3 − 1/10 = 37/30.",
+    "points": 100
+  },
+  {
+    "id": "M015",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 3/10 + 4/9!",
+    "options": [
+      "97/90",
+      "67/90",
+      "11/15",
+      "157/90"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 3/10 + 4/9 = 67/90.",
+    "points": 100
+  },
+  {
+    "id": "M016",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 1/2 − 3/11!",
+    "options": [
+      "5/22",
+      "59/66",
+      "27/22",
+      "22/5"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 1/2 − 3/11 = 5/22.",
+    "points": 100
+  },
+  {
+    "id": "M017",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/2 + 1/4!",
+    "options": [
+      "4/15",
+      "15/4",
+      "15/8",
+      "49/12"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/2 + 1/4 = 15/4.",
+    "points": 100
+  },
+  {
+    "id": "M018",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 1 − 1/2!",
+    "options": [
+      "1/2",
+      "2",
+      "1",
+      "5/6"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 1 − 1/2 = 1/2.",
+    "points": 100
+  },
+  {
+    "id": "M019",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 3/4 + 1/2!",
+    "options": [
+      "5/4",
+      "5/2",
+      "23/12",
+      "19/12"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 3/4 + 1/2 = 5/4.",
+    "points": 100
+  },
+  {
+    "id": "M020",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 9/8 − 1/5!",
+    "options": [
+      "17/40",
+      "9/10",
+      "37/20",
+      "37/40"
+    ],
+    "answer": 3,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 9/8 − 1/5 = 37/40.",
+    "points": 100
+  },
+  {
+    "id": "M021",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 2/3 + 1/4!",
+    "options": [
+      "11/12",
+      "11/6",
+      "5/6",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 2/3 + 1/4 = 11/12.",
+    "points": 100
+  },
+  {
+    "id": "M022",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/6 − 7/10!",
+    "options": [
+      "7/15",
+      "2/5",
+      "17/15",
+      "4/5"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/6 − 7/10 = 7/15.",
+    "points": 100
+  },
+  {
+    "id": "M023",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 1/2 + 8/9!",
+    "options": [
+      "17/9",
+      "37/18",
+      "25/18",
+      "13/9"
+    ],
+    "answer": 2,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 1/2 + 8/9 = 25/18.",
+    "points": 100
+  },
+  {
+    "id": "M024",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 8/3 − 5/3!",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "1/2"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 8/3 − 5/3 = 1.",
+    "points": 100
+  },
+  {
+    "id": "M025",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/10 + 3/2!",
+    "options": [
+      "22/5",
+      "11/5",
+      "38/15",
+      "17/10"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/10 + 3/2 = 11/5.",
+    "points": 100
+  },
+  {
+    "id": "M026",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 9/11 − 4/11!",
+    "options": [
+      "21/22",
+      "5/11",
+      "10/11",
+      "11/5"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 9/11 − 4/11 = 5/11.",
+    "points": 100
+  },
+  {
+    "id": "M027",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 1/4 + 1!",
+    "options": [
+      "5/4",
+      "19/12",
+      "4/5",
+      "5/8"
+    ],
+    "answer": 0,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 1/4 + 1 = 5/4.",
+    "points": 100
+  },
+  {
+    "id": "M028",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 5/11 − 1/3!",
+    "options": [
+      "5/33",
+      "4/33",
+      "41/66",
+      "37/33"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 5/11 − 1/3 = 4/33.",
+    "points": 100
+  },
+  {
+    "id": "M029",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 7/6 + 7/2!",
+    "options": [
+      "17/3",
+      "14/3",
+      "7/3",
+      "3/14"
+    ],
+    "answer": 1,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 7/6 + 7/2 = 14/3.",
+    "points": 100
+  },
+  {
+    "id": "M030",
+    "category": "fraction-add",
+    "difficulty": "sedang",
+    "question": "Hitung hasil dari 6/7 − 1/6!",
+    "options": [
+      "4/21",
+      "29/21",
+      "29/42",
+      "19/14"
+    ],
+    "answer": 2,
+    "explanation": "Samakan penyebut terlebih dahulu, lalu hitung: 6/7 − 1/6 = 29/42.",
+    "points": 100
+  },
+  {
+    "id": "M031",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 1 × 2?",
+    "options": [
+      "8/3",
+      "2",
+      "3",
+      "5/2"
+    ],
+    "answer": 1,
+    "explanation": "Kalikan pembilang dan penyebut: 1 × 2 = 2.",
+    "points": 100
+  },
+  {
+    "id": "M032",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3 ÷ 3/4?",
+    "options": [
+      "4",
+      "1/4",
+      "13/3",
+      "9/2"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3 ÷ 3/4 = 4.",
+    "points": 100
+  },
+  {
+    "id": "M033",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 5/8 × 3/2?",
+    "options": [
+      "61/48",
+      "15/16",
+      "1",
+      "15/8"
+    ],
+    "answer": 1,
+    "explanation": "Kalikan pembilang dan penyebut: 5/8 × 3/2 = 15/16.",
+    "points": 100
+  },
+  {
+    "id": "M034",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 1 ÷ 1/2?",
+    "options": [
+      "2",
+      "5/2",
+      "3/2",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 1 ÷ 1/2 = 2.",
+    "points": 100
+  },
+  {
+    "id": "M035",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/7 × 1/2?",
+    "options": [
+      "3/7",
+      "37/42",
+      "14/3",
+      "3/14"
+    ],
+    "answer": 3,
+    "explanation": "Kalikan pembilang dan penyebut: 3/7 × 1/2 = 3/14.",
+    "points": 100
+  },
+  {
+    "id": "M036",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/4 ÷ 5/2?",
+    "options": [
+      "3/10",
+      "2/5",
+      "10/3",
+      "29/30"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3/4 ÷ 5/2 = 3/10.",
+    "points": 100
+  },
+  {
+    "id": "M037",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 1/6 × 5/9?",
+    "options": [
+      "5/54",
+      "41/54",
+      "1/9",
+      "23/54"
+    ],
+    "answer": 0,
+    "explanation": "Kalikan pembilang dan penyebut: 1/6 × 5/9 = 5/54.",
+    "points": 100
+  },
+  {
+    "id": "M038",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/10 ÷ 1/10?",
+    "options": [
+      "7/2",
+      "3",
+      "10/3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3/10 ÷ 1/10 = 3.",
+    "points": 100
+  },
+  {
+    "id": "M039",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 4/9 × 1/5?",
+    "options": [
+      "45/4",
+      "1/9",
+      "53/90",
+      "4/45"
+    ],
+    "answer": 3,
+    "explanation": "Kalikan pembilang dan penyebut: 4/9 × 1/5 = 4/45.",
+    "points": 100
+  },
+  {
+    "id": "M040",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 2/5 ÷ 7/6?",
+    "options": [
+      "59/70",
+      "12/35",
+      "71/105",
+      "13/35"
+    ],
+    "answer": 1,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 2/5 ÷ 7/6 = 12/35.",
+    "points": 100
+  },
+  {
+    "id": "M041",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 1 × 7/6?",
+    "options": [
+      "5/3",
+      "1",
+      "7/6",
+      "6/7"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 1 × 7/6 = 7/6.",
+    "points": 100
+  },
+  {
+    "id": "M042",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/5 ÷ 3/4?",
+    "options": [
+      "3/10",
+      "4/5",
+      "3/5",
+      "2/5"
+    ],
+    "answer": 1,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3/5 ÷ 3/4 = 4/5.",
+    "points": 100
+  },
+  {
+    "id": "M043",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 1 × 1/10?",
+    "options": [
+      "11/10",
+      "13/30",
+      "1/10",
+      "23/30"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 1 × 1/10 = 1/10.",
+    "points": 100
+  },
+  {
+    "id": "M044",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 7/8 ÷ 1/2?",
+    "options": [
+      "7/8",
+      "11/4",
+      "7/4",
+      "5/4"
+    ],
+    "answer": 2,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 7/8 ÷ 1/2 = 7/4.",
+    "points": 100
+  },
+  {
+    "id": "M045",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/5 × 1/2?",
+    "options": [
+      "3/20",
+      "3/10",
+      "3/5",
+      "1/5"
+    ],
+    "answer": 1,
+    "explanation": "Kalikan pembilang dan penyebut: 3/5 × 1/2 = 3/10.",
+    "points": 100
+  },
+  {
+    "id": "M046",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 3/2 ÷ 4/5?",
+    "options": [
+      "61/24",
+      "8/15",
+      "15/8",
+      "19/8"
+    ],
+    "answer": 2,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3/2 ÷ 4/5 = 15/8.",
+    "points": 100
+  },
+  {
+    "id": "M047",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 9/2 × 2/7?",
+    "options": [
+      "11/14",
+      "18/7",
+      "9/7",
+      "16/7"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 9/2 × 2/7 = 9/7.",
+    "points": 100
+  },
+  {
+    "id": "M048",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 2 ÷ 1/2?",
+    "options": [
+      "4",
+      "13/3",
+      "7/2",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 2 ÷ 1/2 = 4.",
+    "points": 100
+  },
+  {
+    "id": "M049",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 2/3 × 1/3?",
+    "options": [
+      "4/9",
+      "11/9",
+      "2/9",
+      "13/18"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 2/3 × 1/3 = 2/9.",
+    "points": 100
+  },
+  {
+    "id": "M050",
+    "category": "fraction-mul",
+    "difficulty": "sedang",
+    "question": "Berapakah hasil 2/3 ÷ 4/3?",
+    "options": [
+      "7/6",
+      "2",
+      "1/2",
+      "1/4"
+    ],
+    "answer": 2,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 2/3 ÷ 4/3 = 1/2.",
+    "points": 100
+  },
+  {
+    "id": "M051",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 2 × 1/3?",
+    "options": [
+      "7/6",
+      "5/3",
+      "2/3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 2 × 1/3 = 2/3.",
+    "points": 100
+  },
+  {
+    "id": "M052",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 3/7 ÷ 2/5?",
+    "options": [
+      "29/14",
+      "15/7",
+      "59/42",
+      "15/14"
+    ],
+    "answer": 3,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 3/7 ÷ 2/5 = 15/14.",
+    "points": 100
+  },
+  {
+    "id": "M053",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 3/5 × 7/9?",
+    "options": [
+      "4/5",
+      "7/15",
+      "29/30",
+      "17/15"
+    ],
+    "answer": 1,
+    "explanation": "Kalikan pembilang dan penyebut: 3/5 × 7/9 = 7/15.",
+    "points": 100
+  },
+  {
+    "id": "M054",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 1 ÷ 1?",
+    "options": [
+      "1",
+      "5/3",
+      "4/3",
+      "3/2"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 1 ÷ 1 = 1.",
+    "points": 100
+  },
+  {
+    "id": "M055",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 4/3 × 1/5?",
+    "options": [
+      "4/15",
+      "3/5",
+      "1/3",
+      "8/15"
+    ],
+    "answer": 0,
+    "explanation": "Kalikan pembilang dan penyebut: 4/3 × 1/5 = 4/15.",
+    "points": 100
+  },
+  {
+    "id": "M056",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 5/6 ÷ 5/9?",
+    "options": [
+      "5/2",
+      "11/6",
+      "3/2",
+      "2/3"
+    ],
+    "answer": 2,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 5/6 ÷ 5/9 = 3/2.",
+    "points": 100
+  },
+  {
+    "id": "M057",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 2 × 2/3?",
+    "options": [
+      "8/3",
+      "1",
+      "4/3",
+      "7/3"
+    ],
+    "answer": 2,
+    "explanation": "Kalikan pembilang dan penyebut: 2 × 2/3 = 4/3.",
+    "points": 100
+  },
+  {
+    "id": "M058",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 1/8 ÷ 3/2?",
+    "options": [
+      "1/12",
+      "1/6",
+      "0",
+      "7/12"
+    ],
+    "answer": 0,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 1/8 ÷ 3/2 = 1/12.",
+    "points": 100
+  },
+  {
+    "id": "M059",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 7/9 × 7/9?",
+    "options": [
+      "49/81",
+      "179/162",
+      "130/81",
+      "17/162"
+    ],
+    "answer": 0,
+    "explanation": "Kalikan pembilang dan penyebut: 7/9 × 7/9 = 49/81.",
+    "points": 100
+  },
+  {
+    "id": "M060",
+    "category": "fraction-mul",
+    "difficulty": "sulit",
+    "question": "Berapakah hasil 5/7 ÷ 1/5?",
+    "options": [
+      "32/7",
+      "25/7",
+      "89/21",
+      "26/7"
+    ],
+    "answer": 1,
+    "explanation": "Balik pecahan kedua, lalu kalikan: 5/7 ÷ 1/5 = 25/7.",
+    "points": 100
+  },
+  {
+    "id": "M061",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 1 1/4 menjadi pecahan biasa!",
+    "options": [
+      "5/4",
+      "19/12",
+      "23/12",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "(1 × 4 + 1)/4 = 5/4.",
+    "points": 100
+  },
+  {
+    "id": "M062",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 3 1/8 menjadi pecahan biasa!",
+    "options": [
+      "21/8",
+      "25/4",
+      "25/8",
+      "33/8"
+    ],
+    "answer": 2,
+    "explanation": "(3 × 8 + 1)/8 = 25/8.",
+    "points": 100
+  },
+  {
+    "id": "M063",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 4 1/4 menjadi pecahan biasa!",
+    "options": [
+      "21/4",
+      "17/2",
+      "4",
+      "17/4"
+    ],
+    "answer": 3,
+    "explanation": "(4 × 4 + 1)/4 = 17/4.",
+    "points": 100
+  },
+  {
+    "id": "M064",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 3 3/6 menjadi pecahan biasa!",
+    "options": [
+      "7/2",
+      "7",
+      "3",
+      "23/6"
+    ],
+    "answer": 0,
+    "explanation": "(3 × 6 + 3)/6 = 7/2.",
+    "points": 100
+  },
+  {
+    "id": "M065",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 4 2/3 menjadi pecahan biasa!",
+    "options": [
+      "25/6",
+      "31/6",
+      "17/3",
+      "14/3"
+    ],
+    "answer": 3,
+    "explanation": "(4 × 3 + 2)/3 = 14/3.",
+    "points": 100
+  },
+  {
+    "id": "M066",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 3 4/7 menjadi pecahan biasa!",
+    "options": [
+      "25/7",
+      "7/25",
+      "57/14",
+      "24/7"
+    ],
+    "answer": 0,
+    "explanation": "(3 × 7 + 4)/7 = 25/7.",
+    "points": 100
+  },
+  {
+    "id": "M067",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 4 1/10 menjadi pecahan biasa!",
+    "options": [
+      "51/10",
+      "133/30",
+      "41/10",
+      "143/30"
+    ],
+    "answer": 2,
+    "explanation": "(4 × 10 + 1)/10 = 41/10.",
+    "points": 100
+  },
+  {
+    "id": "M068",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 3 2/4 menjadi pecahan biasa!",
+    "options": [
+      "9/2",
+      "3",
+      "7",
+      "7/2"
+    ],
+    "answer": 3,
+    "explanation": "(3 × 4 + 2)/4 = 7/2.",
+    "points": 100
+  },
+  {
+    "id": "M069",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 2 1/9 menjadi pecahan biasa!",
+    "options": [
+      "19/9",
+      "2",
+      "47/18",
+      "38/9"
+    ],
+    "answer": 0,
+    "explanation": "(2 × 9 + 1)/9 = 19/9.",
+    "points": 100
+  },
+  {
+    "id": "M070",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Ubah pecahan campuran 3 4/6 menjadi pecahan biasa!",
+    "options": [
+      "25/6",
+      "22/3",
+      "19/6",
+      "11/3"
+    ],
+    "answer": 3,
+    "explanation": "(3 × 6 + 4)/6 = 11/3.",
+    "points": 100
+  },
+  {
+    "id": "M071",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,3 + 0,9, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "12/5",
+      "6/5",
+      "11/5",
+      "5/6"
+    ],
+    "answer": 1,
+    "explanation": "0,3 + 0,9 = 12/10 = 6/5.",
+    "points": 100
+  },
+  {
+    "id": "M072",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,5 + 0,5, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "4/3"
+    ],
+    "answer": 0,
+    "explanation": "0,5 + 0,5 = 10/10 = 1.",
+    "points": 100
+  },
+  {
+    "id": "M073",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,3 + 0,3, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "1/10",
+      "2/5",
+      "8/5",
+      "3/5"
+    ],
+    "answer": 3,
+    "explanation": "0,3 + 0,3 = 6/10 = 3/5.",
+    "points": 100
+  },
+  {
+    "id": "M074",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,1 + 0,5, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "3/5",
+      "11/10",
+      "8/5",
+      "4/5"
+    ],
+    "answer": 0,
+    "explanation": "0,1 + 0,5 = 6/10 = 3/5.",
+    "points": 100
+  },
+  {
+    "id": "M075",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,3 + 0,6, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "9/5",
+      "2/5",
+      "4/5",
+      "9/10"
+    ],
+    "answer": 3,
+    "explanation": "0,3 + 0,6 = 9/10 = 9/10.",
+    "points": 100
+  },
+  {
+    "id": "M076",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,2 + 0,6, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "17/15",
+      "5/4",
+      "4/5",
+      "9/5"
+    ],
+    "answer": 2,
+    "explanation": "0,2 + 0,6 = 8/10 = 4/5.",
+    "points": 100
+  },
+  {
+    "id": "M077",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,2 + 0,7, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "4/5",
+      "9/10",
+      "7/5",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "0,2 + 0,7 = 9/10 = 9/10.",
+    "points": 100
+  },
+  {
+    "id": "M078",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,4 + 0,6, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "1/2",
+      "3/2",
+      "5/3",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "0,4 + 0,6 = 10/10 = 1.",
+    "points": 100
+  },
+  {
+    "id": "M079",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,4 + 0,5, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "9/5",
+      "19/10",
+      "9/10",
+      "47/30"
+    ],
+    "answer": 2,
+    "explanation": "0,4 + 0,5 = 9/10 = 9/10.",
+    "points": 100
+  },
+  {
+    "id": "M080",
+    "category": "mixed",
+    "difficulty": "sedang",
+    "question": "Hitung 0,2 + 0,2, lalu tuliskan sebagai pecahan paling sederhana!",
+    "options": [
+      "2/5",
+      "7/5",
+      "16/15",
+      "5/2"
+    ],
+    "answer": 0,
+    "explanation": "0,2 + 0,2 = 4/10 = 2/5.",
+    "points": 100
+  },
+  {
+    "id": "M081",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "5 buku seharga Rp25.000 secara keseluruhan. Berapa ribu rupiah harga 10 buku dengan harga satuan sama?",
+    "options": [
+      "53 ribu",
+      "50 ribu",
+      "55 ribu",
+      "46 ribu"
+    ],
+    "answer": 1,
+    "explanation": "Harga satu buku = 25 ÷ 5 = 5 ribu rupiah. Harga 10 buku = 10 × 5 = 50 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M082",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 4 gelas jus diperlukan 24 buah jeruk. Berapa jeruk untuk 13 gelas dengan takaran sama?",
+    "options": [
+      "74",
+      "83",
+      "82",
+      "78"
+    ],
+    "answer": 3,
+    "explanation": "Setiap gelas butuh 24 ÷ 4 = 6 jeruk. Jadi 13 × 6 = 78 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M083",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "3 buku seharga Rp27.000 secara keseluruhan. Berapa ribu rupiah harga 8 buku dengan harga satuan sama?",
+    "options": [
+      "70 ribu",
+      "72 ribu",
+      "77 ribu",
+      "71 ribu"
+    ],
+    "answer": 1,
+    "explanation": "Harga satu buku = 27 ÷ 3 = 9 ribu rupiah. Harga 8 buku = 8 × 9 = 72 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M084",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 6 gelas jus diperlukan 12 buah jeruk. Berapa jeruk untuk 12 gelas dengan takaran sama?",
+    "options": [
+      "25",
+      "21",
+      "34",
+      "24"
+    ],
+    "answer": 3,
+    "explanation": "Setiap gelas butuh 12 ÷ 6 = 2 jeruk. Jadi 12 × 2 = 24 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M085",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "4 buku seharga Rp12.000 secara keseluruhan. Berapa ribu rupiah harga 11 buku dengan harga satuan sama?",
+    "options": [
+      "39 ribu",
+      "30 ribu",
+      "33 ribu",
+      "29 ribu"
+    ],
+    "answer": 2,
+    "explanation": "Harga satu buku = 12 ÷ 4 = 3 ribu rupiah. Harga 11 buku = 11 × 3 = 33 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M086",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 5 gelas jus diperlukan 15 buah jeruk. Berapa jeruk untuk 14 gelas dengan takaran sama?",
+    "options": [
+      "47",
+      "46",
+      "42",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "Setiap gelas butuh 15 ÷ 5 = 3 jeruk. Jadi 14 × 3 = 42 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M087",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "2 buku seharga Rp8.000 secara keseluruhan. Berapa ribu rupiah harga 8 buku dengan harga satuan sama?",
+    "options": [
+      "29 ribu",
+      "32 ribu",
+      "35 ribu",
+      "30 ribu"
+    ],
+    "answer": 1,
+    "explanation": "Harga satu buku = 8 ÷ 2 = 4 ribu rupiah. Harga 8 buku = 8 × 4 = 32 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M088",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 6 gelas jus diperlukan 18 buah jeruk. Berapa jeruk untuk 8 gelas dengan takaran sama?",
+    "options": [
+      "24",
+      "36",
+      "26",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "Setiap gelas butuh 18 ÷ 6 = 3 jeruk. Jadi 8 × 3 = 24 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M089",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "5 buku seharga Rp35.000 secara keseluruhan. Berapa ribu rupiah harga 10 buku dengan harga satuan sama?",
+    "options": [
+      "70 ribu",
+      "73 ribu",
+      "69 ribu",
+      "75 ribu"
+    ],
+    "answer": 0,
+    "explanation": "Harga satu buku = 35 ÷ 5 = 7 ribu rupiah. Harga 10 buku = 10 × 7 = 70 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M090",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 3 gelas jus diperlukan 27 buah jeruk. Berapa jeruk untuk 9 gelas dengan takaran sama?",
+    "options": [
+      "85",
+      "80",
+      "78",
+      "81"
+    ],
+    "answer": 3,
+    "explanation": "Setiap gelas butuh 27 ÷ 3 = 9 jeruk. Jadi 9 × 9 = 81 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M091",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "6 buku seharga Rp54.000 secara keseluruhan. Berapa ribu rupiah harga 7 buku dengan harga satuan sama?",
+    "options": [
+      "63 ribu",
+      "62 ribu",
+      "66 ribu",
+      "67 ribu"
+    ],
+    "answer": 0,
+    "explanation": "Harga satu buku = 54 ÷ 6 = 9 ribu rupiah. Harga 7 buku = 7 × 9 = 63 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M092",
+    "category": "direct",
+    "difficulty": "sedang",
+    "question": "Untuk membuat 4 gelas jus diperlukan 16 buah jeruk. Berapa jeruk untuk 10 gelas dengan takaran sama?",
+    "options": [
+      "42",
+      "45",
+      "41",
+      "40"
+    ],
+    "answer": 3,
+    "explanation": "Setiap gelas butuh 16 ÷ 4 = 4 jeruk. Jadi 10 × 4 = 40 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M093",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "6 buku seharga Rp42.000 secara keseluruhan. Berapa ribu rupiah harga 9 buku dengan harga satuan sama?",
+    "options": [
+      "60 ribu",
+      "63 ribu",
+      "68 ribu",
+      "69 ribu"
+    ],
+    "answer": 1,
+    "explanation": "Harga satu buku = 42 ÷ 6 = 7 ribu rupiah. Harga 9 buku = 9 × 7 = 63 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M094",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "Untuk membuat 5 gelas jus diperlukan 20 buah jeruk. Berapa jeruk untuk 13 gelas dengan takaran sama?",
+    "options": [
+      "64",
+      "55",
+      "49",
+      "52"
+    ],
+    "answer": 3,
+    "explanation": "Setiap gelas butuh 20 ÷ 5 = 4 jeruk. Jadi 13 × 4 = 52 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M095",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "2 buku seharga Rp10.000 secara keseluruhan. Berapa ribu rupiah harga 11 buku dengan harga satuan sama?",
+    "options": [
+      "55 ribu",
+      "60 ribu",
+      "53 ribu",
+      "56 ribu"
+    ],
+    "answer": 0,
+    "explanation": "Harga satu buku = 10 ÷ 2 = 5 ribu rupiah. Harga 11 buku = 11 × 5 = 55 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M096",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "Untuk membuat 2 gelas jus diperlukan 8 buah jeruk. Berapa jeruk untuk 10 gelas dengan takaran sama?",
+    "options": [
+      "45",
+      "40",
+      "50",
+      "52"
+    ],
+    "answer": 1,
+    "explanation": "Setiap gelas butuh 8 ÷ 2 = 4 jeruk. Jadi 10 × 4 = 40 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M097",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "5 buku seharga Rp35.000 secara keseluruhan. Berapa ribu rupiah harga 7 buku dengan harga satuan sama?",
+    "options": [
+      "53 ribu",
+      "49 ribu",
+      "59 ribu",
+      "48 ribu"
+    ],
+    "answer": 1,
+    "explanation": "Harga satu buku = 35 ÷ 5 = 7 ribu rupiah. Harga 7 buku = 7 × 7 = 49 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M098",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "Untuk membuat 2 gelas jus diperlukan 8 buah jeruk. Berapa jeruk untuk 11 gelas dengan takaran sama?",
+    "options": [
+      "44",
+      "45",
+      "40",
+      "43"
+    ],
+    "answer": 0,
+    "explanation": "Setiap gelas butuh 8 ÷ 2 = 4 jeruk. Jadi 11 × 4 = 44 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M099",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "6 buku seharga Rp18.000 secara keseluruhan. Berapa ribu rupiah harga 9 buku dengan harga satuan sama?",
+    "options": [
+      "39 ribu",
+      "32 ribu",
+      "27 ribu",
+      "37 ribu"
+    ],
+    "answer": 2,
+    "explanation": "Harga satu buku = 18 ÷ 6 = 3 ribu rupiah. Harga 9 buku = 9 × 3 = 27 ribu rupiah.",
+    "points": 100
+  },
+  {
+    "id": "M100",
+    "category": "direct",
+    "difficulty": "sulit",
+    "question": "Untuk membuat 3 gelas jus diperlukan 21 buah jeruk. Berapa jeruk untuk 13 gelas dengan takaran sama?",
+    "options": [
+      "90",
+      "88",
+      "91",
+      "95"
+    ],
+    "answer": 2,
+    "explanation": "Setiap gelas butuh 21 ÷ 3 = 7 jeruk. Jadi 13 × 7 = 91 jeruk.",
+    "points": 100
+  },
+  {
+    "id": "M101",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "5 pekerja menyelesaikan tugas dalam 12 hari. Jika jumlah pekerja menjadi 20 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "3",
+      "13",
+      "9",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Berbalik nilai: 5 × 12 = 20 × waktu, jadi waktu = 60/20 = 3.",
+    "points": 100
+  },
+  {
+    "id": "M102",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "6 mesin mengemas barang dalam 60 jam. Jika dipakai 18 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "30",
+      "18",
+      "21",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 6 × 60 = 18 × waktu, jadi waktu = 360/18 = 20.",
+    "points": 100
+  },
+  {
+    "id": "M103",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "4 pekerja menyelesaikan tugas dalam 30 hari. Jika jumlah pekerja menjadi 8 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "20",
+      "13",
+      "15",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 4 × 30 = 8 × waktu, jadi waktu = 120/8 = 15.",
+    "points": 100
+  },
+  {
+    "id": "M104",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "8 mesin mengemas barang dalam 48 jam. Jika dipakai 24 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "13",
+      "16",
+      "20",
+      "21"
+    ],
+    "answer": 1,
+    "explanation": "Berbalik nilai: 8 × 48 = 24 × waktu, jadi waktu = 384/24 = 16.",
+    "points": 100
+  },
+  {
+    "id": "M105",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "2 pekerja menyelesaikan tugas dalam 20 hari. Jika jumlah pekerja menjadi 8 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "15",
+      "8",
+      "5",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 2 × 20 = 8 × waktu, jadi waktu = 40/8 = 5.",
+    "points": 100
+  },
+  {
+    "id": "M106",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "2 mesin mengemas barang dalam 120 jam. Jika dipakai 8 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "31",
+      "30",
+      "36",
+      "26"
+    ],
+    "answer": 1,
+    "explanation": "Berbalik nilai: 2 × 120 = 8 × waktu, jadi waktu = 240/8 = 30.",
+    "points": 100
+  },
+  {
+    "id": "M107",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "3 pekerja menyelesaikan tugas dalam 24 hari. Jika jumlah pekerja menjadi 9 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "20",
+      "18",
+      "8",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 3 × 24 = 9 × waktu, jadi waktu = 72/9 = 8.",
+    "points": 100
+  },
+  {
+    "id": "M108",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "2 mesin mengemas barang dalam 30 jam. Jika dipakai 6 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "16",
+      "14",
+      "10",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 2 × 30 = 6 × waktu, jadi waktu = 60/6 = 10.",
+    "points": 100
+  },
+  {
+    "id": "M109",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "10 pekerja menyelesaikan tugas dalam 24 hari. Jika jumlah pekerja menjadi 20 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "22",
+      "16",
+      "12",
+      "17"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 10 × 24 = 20 × waktu, jadi waktu = 240/20 = 12.",
+    "points": 100
+  },
+  {
+    "id": "M110",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "2 mesin mengemas barang dalam 24 jam. Jika dipakai 8 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "Berbalik nilai: 2 × 24 = 8 × waktu, jadi waktu = 48/8 = 6.",
+    "points": 100
+  },
+  {
+    "id": "M111",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "6 pekerja menyelesaikan tugas dalam 48 hari. Jika jumlah pekerja menjadi 18 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "26",
+      "19",
+      "12",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 6 × 48 = 18 × waktu, jadi waktu = 288/18 = 16.",
+    "points": 100
+  },
+  {
+    "id": "M112",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "2 mesin mengemas barang dalam 36 jam. Jika dipakai 4 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "20",
+      "15",
+      "22",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 2 × 36 = 4 × waktu, jadi waktu = 72/4 = 18.",
+    "points": 100
+  },
+  {
+    "id": "M113",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "10 pekerja menyelesaikan tugas dalam 30 hari. Jika jumlah pekerja menjadi 30 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "11",
+      "14",
+      "22",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 10 × 30 = 30 × waktu, jadi waktu = 300/30 = 10.",
+    "points": 100
+  },
+  {
+    "id": "M114",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "10 mesin mengemas barang dalam 36 jam. Jika dipakai 30 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "9",
+      "18",
+      "12",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 10 × 36 = 30 × waktu, jadi waktu = 360/30 = 12.",
+    "points": 100
+  },
+  {
+    "id": "M115",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "8 pekerja menyelesaikan tugas dalam 30 hari. Jika jumlah pekerja menjadi 24 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "Berbalik nilai: 8 × 30 = 24 × waktu, jadi waktu = 240/24 = 10.",
+    "points": 100
+  },
+  {
+    "id": "M116",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "5 mesin mengemas barang dalam 24 jam. Jika dipakai 10 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "17",
+      "22",
+      "14",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 5 × 24 = 10 × waktu, jadi waktu = 120/10 = 12.",
+    "points": 100
+  },
+  {
+    "id": "M117",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "6 pekerja menyelesaikan tugas dalam 20 hari. Jika jumlah pekerja menjadi 24 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "6",
+      "7",
+      "17",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 6 × 20 = 24 × waktu, jadi waktu = 120/24 = 5.",
+    "points": 100
+  },
+  {
+    "id": "M118",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "6 mesin mengemas barang dalam 12 jam. Jika dipakai 18 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "6",
+      "14",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 6 × 12 = 18 × waktu, jadi waktu = 72/18 = 4.",
+    "points": 100
+  },
+  {
+    "id": "M119",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "5 pekerja menyelesaikan tugas dalam 30 hari. Jika jumlah pekerja menjadi 15 orang dan kecepatan kerja sama, berapa hari diperlukan?",
+    "options": [
+      "20",
+      "14",
+      "10",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Berbalik nilai: 5 × 30 = 15 × waktu, jadi waktu = 150/15 = 10.",
+    "points": 100
+  },
+  {
+    "id": "M120",
+    "category": "inverse",
+    "difficulty": "sulit",
+    "question": "10 mesin mengemas barang dalam 24 jam. Jika dipakai 40 mesin dengan kecepatan sama, berapa jam diperlukan?",
+    "options": [
+      "7",
+      "11",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Berbalik nilai: 10 × 24 = 40 × waktu, jadi waktu = 240/40 = 6.",
+    "points": 100
+  }
+]
