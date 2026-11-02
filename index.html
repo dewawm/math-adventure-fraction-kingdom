@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#111b3b" />
+  <title>Math Adventure · Fraction Kingdom</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="./config.js"></script>
+</head>
+<body>
+<div class="app-shell">
+ <header class="topbar">
+  <a class="brand" href="#" aria-label="Math Adventure"><span class="brand-icon">✦</span><span><strong>MATH ADVENTURE</strong><small>FRACTION KINGDOM</small></span></a>
+  <div class="topbar-right"><span class="pill">✦ MATEMATIKA KELAS 6</span><button id="fullscreen-top" class="icon-btn" title="Layar penuh" aria-label="Layar penuh">⛶</button></div>
+ </header>
+ <main>
+  <div class="game-intro"><div><span class="eyebrow">PIXEL QUEST • LEARN & PLAY</span><h1>Petualangan Matematika <span>dimulai!</span></h1></div><span class="subtext">Pukul kotak <b>?</b> • Jawab soal • Raih skor tertinggi</span></div>
+  <div class="game-frame" id="game-frame">
+   <canvas id="game-canvas" width="960" height="540" tabindex="0" aria-label="Permainan petualangan matematika 2D"></canvas>
+   <div class="toast hidden" id="toast" role="status"></div>
+   <div class="overlay" id="menu-overlay">
+    <div class="menu-card">
+     <div class="sparkle">✦ ✧ ✦</div><div class="edition">THE ULTIMATE PIXEL LEARNING QUEST</div>
+     <h2 class="game-title">MATH <span>ADVENTURE</span></h2><div class="title-sub">FRACTION KINGDOM</div>
+     <p class="menu-description">Jelajahi dunia pecahan, kumpulkan koin, dan jadilah legenda matematika!</p>
+     <div class="menu-actions"><button class="primary big" id="start-btn">▶ &nbsp; MULAI PETUALANGAN</button><div class="menu-grid"><button id="levels-menu">🗺 Pilih Level</button><button id="scores-menu">🏆 Hall of Fame</button><button id="how-menu">⌨ Cara Bermain</button><button id="teacher-menu">▦ Mode Guru</button><button id="settings-menu">⚙ Pengaturan</button></div></div>
+     <div class="menu-foot">3 DUNIA <span>◆</span> 120 SOAL <span>◆</span> COMBO x5</div>
+    </div>
+   </div>
+   <div class="overlay hidden" id="levels-overlay"><div class="dialog wide-dialog"><div class="dialog-top"><span class="eyebrow">PILIH DUNIAMU</span><button class="close-x" data-back>✕</button></div><h2>🗺 PILIH LEVEL</h2><p class="muted">Selesaikan dunia sebelumnya untuk membuka level berikutnya. Level terbuka disimpan di browser ini.</p><div class="level-select-grid" id="level-select-grid"></div><button data-back>KEMBALI</button></div></div>
+   <div class="overlay hidden" id="quiz-overlay">
+    <div class="dialog quiz-panel">
+     <div class="dialog-top"><span class="eyebrow">KOTAK MISTERI DIBUKA!</span><span class="quiz-counter" id="quiz-category">PECAHAN</span></div>
+     <h2>⚡ TANTANGAN MATEMATIKA</h2>
+     <div class="question" id="question-text"></div>
+     <div class="options" id="quiz-options"></div>
+     <div class="quiz-bottom"><span id="quiz-status">Pilih jawaban yang paling tepat!</span><span class="score-hint">★ +100 × COMBO</span></div>
+    </div>
+   </div>
+   <div class="overlay hidden" id="feedback-overlay"><div class="dialog feedback-panel"><div class="feedback-icon" id="feedback-icon">★</div><h2 id="feedback-title">HEBAT!</h2><p id="feedback-desc"></p><div class="explanation" id="feedback-explanation"></div><button class="primary" id="feedback-next">LANJUTKAN ▶</button></div></div>
+   <div class="overlay hidden" id="pause-overlay"><div class="dialog narrow"><div class="eyebrow">GAME DIJEDA</div><h2>⏸ PAUSE</h2><p>Istirahat sejenak, lalu lanjutkan petualanganmu.</p><button class="primary" id="resume-btn">▶ LANJUT MAIN</button><button id="pause-menu-btn">⌂ KEMBALI KE MENU</button></div></div>
+   <div class="overlay hidden" id="stage-overlay"><div class="dialog narrow stage-dialog"><div class="medal">★</div><div class="eyebrow">STAGE CLEAR</div><h2 id="stage-title">LEVEL SELESAI!</h2><p id="stage-desc"></p><div class="stage-stats" id="stage-stats"></div><button class="primary" id="next-level-btn">LEVEL BERIKUTNYA →</button></div></div>
+   <div class="overlay hidden" id="end-overlay"><div class="dialog end-dialog"><div class="eyebrow" id="end-eyebrow">PERMAINAN BERAKHIR</div><h2 id="end-title">GAME OVER</h2><div id="end-stats" class="result-stats"></div><label class="input-label" for="student-name">MASUKKAN NAMA SISWA</label><div class="save-line"><input id="student-name" type="text" maxlength="24" autocomplete="off" placeholder="Nama siswa..." /><button id="save-score-btn" class="primary">💾 SIMPAN SKOR</button></div><div class="save-status" id="save-status"></div><div class="row-buttons"><button id="restart-btn">↻ MAIN LAGI</button><button id="end-scores-btn">🏆 HALL OF FAME</button><button id="end-home-btn">⌂ MENU</button></div></div></div>
+   <div class="overlay hidden" id="leaderboard-overlay"><div class="dialog wide-dialog"><div class="dialog-top"><span class="eyebrow">THE BEST MATH EXPLORERS</span><button class="close-x" data-back aria-label="Tutup">✕</button></div><h2>🏆 HALL OF FAME</h2><div class="row-flex"><span id="score-source" class="muted">Data perangkat</span><label class="toggle"><input id="best-only" type="checkbox" checked /> Tampilkan skor terbaik tiap siswa</label></div><div class="table-scroll"><table><thead><tr><th>#</th><th>NAMA SISWA</th><th>SKOR</th><th>LEVEL</th><th>AKURASI</th></tr></thead><tbody id="leaderboard-body"></tbody></table></div><div class="row-buttons"><button id="download-scores">↓ UNDUH CSV</button><button data-back class="primary">KEMBALI</button></div></div></div>
+   <div class="overlay hidden" id="how-overlay"><div class="dialog wide-dialog"><div class="dialog-top"><span class="eyebrow">PANDUAN PETUALANG</span><button data-back class="close-x">✕</button></div><h2>⌨ CARA BERMAIN</h2><div class="how-grid"><div><b>← → / A D</b><span>Bergerak ke kiri dan kanan</span></div><div><b>SPASI / ↑ / W</b><span>Melompat</span></div><div><b>SHIFT</b><span>Berlari lebih cepat</span></div><div><b>P / ESC</b><span>Jeda permainan</span></div></div><p class="hint">Lompat dan pukul <b>kotak tanda tanya (?) dari bawah</b> untuk menjawab soal. Setiap jawaban benar memberi 100 × combo poin. Jawaban salah mengulang combo, tetapi tidak mengurangi nyawa (kecuali saat melawan bos).</p><p class="hint">Kumpulkan koin (+10), hindari monster, lewati jurang, dan capai bendera finis. Selesaikan tiga dunia dan taklukkan King Ratio!</p><button data-back class="primary">MENGERTI! ✓</button></div></div>
+   <div class="overlay hidden" id="settings-overlay"><div class="dialog narrow"><div class="dialog-top"><span class="eyebrow">PENGATURAN</span><button class="close-x" data-back>✕</button></div><h2>⚙ SETTINGS</h2><label class="setting-row"><span>Musik retro</span><input type="checkbox" id="music-toggle" checked /></label><label class="setting-row"><span>Efek suara</span><input type="checkbox" id="sfx-toggle" checked /></label><label class="setting-row"><span>Volume</span><input type="range" id="volume-slider" min="0" max="100" value="45" /></label><button class="primary" id="fullscreen-settings">⛶ LAYAR PENUH</button><button data-back>KEMBALI</button></div></div>
+   <div class="overlay hidden" id="teacher-overlay"><div class="dialog teacher-dialog"><div class="dialog-top"><span class="eyebrow">DASHBOARD GURU • PENYIMPANAN LOKAL</span><button class="close-x" data-back>✕</button></div><h2>▦ MODE GURU</h2><p class="muted">120 soal bawaan tersedia. Tambahkan soal baru atau impor JSON; perubahan tersimpan di browser ini. Tidak ada autentikasi guru pada mode offline.</p><div class="teacher-grid"><div><label>Materi soal<select id="new-category"><option value="fraction-add">Penjumlahan / pengurangan</option><option value="fraction-mul">Perkalian / pembagian</option><option value="mixed">Pecahan campuran / desimal</option><option value="direct">Perbandingan senilai</option><option value="inverse">Perbandingan berbalik nilai</option></select></label><label>Pertanyaan<textarea id="new-question" rows="2" placeholder="Berapa hasil 1/2 + 1/4?"></textarea></label><div class="option-fields"><input id="new-a" placeholder="Pilihan A" /><input id="new-b" placeholder="Pilihan B" /><input id="new-c" placeholder="Pilihan C" /><input id="new-d" placeholder="Pilihan D" /></div></div><div><label>Jawaban benar<select id="new-answer"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select></label><label>Kesulitan<select id="new-difficulty"><option value="mudah">Mudah</option><option value="sedang" selected>Sedang</option><option value="sulit">Sulit</option></select></label><label>Pembahasan<textarea id="new-explanation" rows="3" placeholder="Samakan penyebut, lalu jumlahkan..."></textarea></label><button class="primary" id="add-question">＋ SIMPAN SOAL</button></div></div><div class="teacher-controls"><label class="file-label">↑ IMPOR JSON / CSV <input type="file" id="import-questions" accept="application/json,.json,text/csv,.csv" hidden /></label><button id="export-questions">↓ EKSPOR SOAL</button><button id="teacher-export-scores">↓ UNDUH NILAI</button><select id="question-difficulty" title="Kesulitan selama bermain"><option value="semua">Semua kesulitan</option><option value="mudah">Hanya mudah</option><option value="sedang">Hanya sedang</option><option value="sulit">Hanya sulit</option></select></div><p class="muted" id="teacher-message"></p><div class="teacher-list" id="custom-question-list"></div></div></div>
+   <div class="touch-controls" id="touch-controls"><div class="touch-left"><button id="touch-left" aria-label="Jalan kiri">◀</button><button id="touch-right" aria-label="Jalan kanan">▶</button></div><div class="touch-right"><button id="touch-run">RUN</button><button id="touch-jump">JUMP ⤒</button><button id="touch-pause">Ⅱ</button></div></div>
+  </div>
+  <div class="below-game"><span><b class="keycap">← →</b> Bergerak &nbsp; <b class="keycap">SPASI</b> Melompat &nbsp; <b class="keycap">SHIFT</b> Berlari</span><span><span class="live-dot"></span> Siap dimainkan online • Skor tersimpan per perangkat</span></div>
+ </main>
+ <footer>ORIGINAL GAME BY <b>SENSEI AFTER SCHOOL</b> <span>★</span> BELAJAR MATEMATIKA, SATU PETUALANGAN SEKALIGUS</footer>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "math-adventure-fraction-kingdom",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/dev-server.mjs",
+    "build": "node tools/build.mjs",
+    "preview": "node tools/dev-server.mjs dist",
+    "test": "node tools/smoke-test.mjs"
+  },
+  "description": "Offline-first original 2D math platformer for Grade 6 students.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  }
+}
